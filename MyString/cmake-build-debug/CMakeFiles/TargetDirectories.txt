@@ -1,0 +1,3 @@
+C:/C++/MyString1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/C++/MyString1/cmake-build-debug/CMakeFiles/MyString1.dir
+C:/C++/MyString1/cmake-build-debug/CMakeFiles/edit_cache.dir
